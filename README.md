@@ -6,6 +6,12 @@ This project aims to enable self-driving cars 🚗 to see and interact with the 
 
 </div>
 
+> 🙋‍♂️ **Who are we ?** : 
+> - We are a team from Egypt studied at [Faculty of Engineering](https://engfac.mans.edu.eg/), [Electronics and Communications Department](https://www.facebook.com/people/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D9%84%D9%82%D8%B3%D9%85-%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A7%D8%AA-%D9%88-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B5%D9%88%D8%B1%D8%A9/100057482558089/) in [Mansoura University](https://www.mans.edu.eg/en).
+>
+> - These features were created to be used for our graduation project 🎓 (RTSD System) to make a system that can detect Roads Traffic Signs in real-time. 
+>
+> - We are using YOLOv8 as a base model and we are adding new features to it to make it more suitable for our use case.
 >
 
 <div align="center">
