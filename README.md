@@ -122,8 +122,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙋‍♂️ Authors
 
-</div>
+[Mohamed Atef](https://github.com/MohamedAtef321) - [Mohamed Wael](https://github.com/Elbahkiry) - [Ahemd Ezz Eldin](https://github.com/AhmedEzzeldeenn)
 
-- [Mohamed Atef](https://github.com/MohamedAtef321)
-- [Mohamed Wael](https://github.com/Elbahkiry)
-- [Ahemd Ezz Eldin](https://github.com/AhmedEzzeldeenn)
+</div>
