@@ -37,8 +37,8 @@ The main goal of this project is to detect traffic signs 🚩 along the road, th
 </div>
 
 Throughout the project, we followed these steps:
-1. First we used RoboFlow to create the dataset in YOLO format
-2. Then we used Google Colab to train the model
+1. First we used [RoboFlow](https://roboflow.com/) to create the dataset in YOLO format.
+2. Then we used [Google Colab](https://colab.research.google.com/) to train the model.
 3. Finally we used Raspberry Pi 4 to run the model on the real-time video stream from the camera.
 
 <div align="center">
@@ -73,10 +73,10 @@ The model was trained for 300 epochs, and the results are as follows:
 
 | Metric | Value |
 | :---: | :---: |
-| mAP | 0.95 |
-| Precision | 0.95 |
-| Recall | 0.95 |
-| F1 Score | 0.95 |
+| Precision | 0.97 |
+| Recall | 0.98 |
+| mAP50 | 0.99 |
+| mAP50-95 | 0.87 |
 
 The model was tested on the real-time video stream from the camera, and the results are as follows:
 
@@ -126,6 +126,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Mohamed Atef](https://github.com/MohamedAtef321)
 - [Mohamed Wael](https://github.com/Elbahkiry)
-- [Ahemd Ezz Eldin](
-
-)
+- [Ahemd Ezz Eldin](https://github.com/AhmedEzzeldeenn)
