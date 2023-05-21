@@ -1,0 +1,3 @@
+[submodule "YOLOv8-Extended-Edition"]
+	path = YOLOv8-Extended-Edition
+	url = https://github.com/MohamedAtef321/YOLOv8-Extended-Edition
