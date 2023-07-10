@@ -18,6 +18,9 @@ This project aims to enable self-driving cars 🚗 to see and interact with the 
 >
 > - We are using YOLOv8 as a base model and we are adding new features to it to make it more suitable for our use case.
 >
+> - Our Gorgeous Team :
+> - ![photo_2023-07-10_23-22-16](https://github.com/MohamedAtef321/RTSD-Road-Traffic-Signs-Detection-System/assets/73308647/b793d241-7cc9-421f-8f4a-7ac9df1579bf)
+
 
 <div align="center">
 
